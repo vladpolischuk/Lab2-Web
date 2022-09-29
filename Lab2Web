@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<ol>
+<li>Раз</li>
+<li>Два</li>
+<li>Три</li>
+</ol>
+<table border="1">
+<tr>
+<td>Рядок 1 Стовпець 1</td>
+<td>Рядок 1 Стовпець 2</td>
+<td>Рядок 1 Стовпець 3</td>
+</tr>
+<tr>
+<td>Рядок 2 Стовпець 1</td>
+<td>Рядок 2 Стовпець 2</td>
+<td>Рядок 2 Стовпець 3</td>
+</tr>
+<tr>
+<td>Рядок 3 Стовпець 1</td>
+<td>Рядок 3 Стовпець 2</td>
+<td>Рядок 3 Стовпець 3</td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<td></td>
+<th>Стовпець 1</th>
+<th>Стовпець 2</th>
+</tr>
+<tr>
+<th>Рядок 1</th>
+<td>Рядок 1 Стовпець 1</td>
+<td>Рядок 1 Стовпець 2</td>
+</tr>
+<tr>
+<th>Рядок 2</th>
+<td>Рядок 2 Стовпець 1</td>
+<td>Рядок 2 Стовпець 2</td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<td colspan="2">Рядок 1 Стовпець 1 прос...ся на два вправо</td>
+<td>Рядок 1 Стовпець 3</td>
+</tr>
+<tr>
+<td>Рядок 2 Стовпець 1</td>
+<td rowspan="3">Рядок 2 Стовпець 2 прос...ся на 2 вниз</td>
+<td>Рядок 2 Стовпець 3</td>
+</tr>
+<tr>
+<td>Рядок 3 Стовпець 1</td>
+<td>Рядок 3 Стовпець 3</td>
+</tr>
+</table>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Картинки</title>
+</head>
+<body>
+<img src="https://static.ua-football.com/img/upload/21/29c14f.jpeg" alt="Маленька картинка" title="Маленька
+картинка" width="auto" height="auto" /><br/>
+<img src=https://upload.wikimedia.org/wikipedia/ru/9/98/Real_Madrid.png?20070330113013" alt="Велика картинка" title="Велика
+картинка" width="300" height="400" /><br/>
+<img src="https://img.championat.com/s/735x490/news/big/o/s/onlajn-translyaciya-finala-ligi-chempionov_165377518066527694.jpg" alt="Широка картинка" title="Широка
+картинка" width="100%" height="300" />
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hFd6zGkxLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</html>
